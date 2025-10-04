@@ -1,6 +1,6 @@
 # Apexfolio: Simulated Trading Dashboard
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Apexfolio-20251004-022855)
 
 Apexfolio is a visually stunning and minimalist web application designed as a dashboard for monitoring a simulated auto-trading bot for Interactive Brokers. It provides a clean, intuitive interface for tracking simulated portfolio performance, viewing trade history, and configuring bot parameters. The application emphasizes data visualization and a serene user experience, making complex trading data easy to digest.
 
@@ -86,7 +86,7 @@ This project is designed for seamless deployment to Cloudflare's global network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Apexfolio-20251004-022855)
 
 ## ⚠️ Disclaimer
 
